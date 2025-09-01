@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Do_An.chm
+Contents file=Do_An.hhc
+Index file=Do_An.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=Do_An
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Do_An","Do_An.hhc","Do_An.hhk","","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Hướng Dẫn Đăng Nhập.mht
+~$ớng Dẫn Đăng Nhập.mht
+

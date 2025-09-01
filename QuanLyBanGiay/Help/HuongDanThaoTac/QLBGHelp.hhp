@@ -1,0 +1,23 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=QLBGHelp.chm
+Contents file=QLBGHelp.hhc
+Index file=QLBGHelp.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=QLBG
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="QLBG","QLBGHelp.hhc","QLBGHelp.hhk","Huong Dan Dang Nhap.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Huong Dan Dang Nhap.mht
+Huong Dan Doi Mat Khau.mht
+Huong Dan Thao Tac Giao Dien Don Hang.mht
+Huong Dan Thao Tac Giao Dien Khach Hang.mht
+Huong Dan Thao Tac Giao Dien Nhan Vien.mht
+Huong Dan Thao Tac Giao Dien San Pham.mht
+
