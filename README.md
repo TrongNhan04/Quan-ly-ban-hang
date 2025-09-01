@@ -20,5 +20,9 @@ Dự án nhỏ viết bằng **C# (.NET WinForms)** sử dụng **Entity Framewo
    - Mở file `App.config`
    - Chỉnh sửa **connection string** cho phù hợp với máy
    - Mở **Terminal** gõ lệnh `update database`
+### Giao diện
+1. **Màn hình đăng nhập:**
+  <img src="Images/a1.png" width=400 align="center">
+
 
 
